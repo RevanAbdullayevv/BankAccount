@@ -1,0 +1,14 @@
+C:\Users\rvana\source\repos\BankAccount\BankAccount\obj\Debug\net8.0\BankAccountTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rvana\source\repos\BankAccount\BankAccount\obj\Debug\net8.0\BankAccountTask.AssemblyInfoInputs.cache
+C:\Users\rvana\source\repos\BankAccount\BankAccount\obj\Debug\net8.0\BankAccountTask.AssemblyInfo.cs
+C:\Users\rvana\source\repos\BankAccount\BankAccount\obj\Debug\net8.0\BankAccountTask.csproj.CoreCompileInputs.cache
+C:\Users\rvana\source\repos\BankAccount\BankAccount\bin\Debug\net8.0\BankAccountTask.exe
+C:\Users\rvana\source\repos\BankAccount\BankAccount\bin\Debug\net8.0\BankAccountTask.deps.json
+C:\Users\rvana\source\repos\BankAccount\BankAccount\bin\Debug\net8.0\BankAccountTask.runtimeconfig.json
+C:\Users\rvana\source\repos\BankAccount\BankAccount\bin\Debug\net8.0\BankAccountTask.dll
+C:\Users\rvana\source\repos\BankAccount\BankAccount\bin\Debug\net8.0\BankAccountTask.pdb
+C:\Users\rvana\source\repos\BankAccount\BankAccount\obj\Debug\net8.0\BankAccountTask.dll
+C:\Users\rvana\source\repos\BankAccount\BankAccount\obj\Debug\net8.0\refint\BankAccountTask.dll
+C:\Users\rvana\source\repos\BankAccount\BankAccount\obj\Debug\net8.0\BankAccountTask.pdb
+C:\Users\rvana\source\repos\BankAccount\BankAccount\obj\Debug\net8.0\BankAccountTask.genruntimeconfig.cache
+C:\Users\rvana\source\repos\BankAccount\BankAccount\obj\Debug\net8.0\ref\BankAccountTask.dll
